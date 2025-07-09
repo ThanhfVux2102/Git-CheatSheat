@@ -29,4 +29,6 @@
 - git merge [alias]/ [branch]
   
   
- 
+ ![image](https://github.com/user-attachments/assets/118178e5-3e08-4308-a60b-fc35491b417d)
+![image](https://github.com/user-attachments/assets/1c9e258b-e309-4917-a78d-7dd63497cfc2)
+
